@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hey, There!
+I'm a Full Stack Developer Learning Cantonese! Check out what I've made so far combining both passions: [Yil's Cantonese Resources](https://yilverdeja.notion.site/Yil-s-Cantonese-Resources-e133362405b24b5db05e238f46001017).
+
+## About Me
+I am a Dominican Belgian TCK that's currently living in Hong Kong! 
 
 <!--
 **yilverdeja/yilverdeja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
